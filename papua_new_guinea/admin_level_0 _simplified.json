@@ -1,4 +1,8 @@
-      {"type": "Feature",      
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
             "geometry": {
                 "type": "MultiPolygon",
                 "coordinates": [
@@ -15102,10 +15106,13 @@
                     ]
                 ]
             },
-"properties": {
-            "osm_id": "PNG0",
-            "name": "Papua New Guinea",
-            "parent": null,
-            "level": 0,
-            "aliases": []
-}}
+            "properties": {
+                "osm_id": "PNG0",
+                "name": "Papua New Guinea",
+                "parent": null,
+                "level": 0,
+                "aliases": []
+            }
+        }
+    ]
+}
