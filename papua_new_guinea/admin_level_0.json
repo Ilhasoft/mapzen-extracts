@@ -15109,8 +15109,11 @@
             "properties": {
                 "osm_id": "PNG0",
                 "name": "Papua New Guinea",
-                "parent": null,
-                "level": 0,
+                "name_en": "Papua New Guinea",
+                "is_in_country": null,
+                "is_simplified": true,
+                "is_in_state": null,
+                "admin_level": 0,
                 "aliases": []
             }
         }
