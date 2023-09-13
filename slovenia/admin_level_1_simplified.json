@@ -283,7 +283,7 @@
                 "is_in_country": "SLO00",
                 "is_in_state": "None",
                 "is_simplified": true,
-                "osm_id": 1,
+                "osm_id": "SLO01",
                 "name_en": "Pomurska",
                 "name": "Pomurska"
             }
@@ -618,7 +618,7 @@
                 "is_in_country": "SLO00",
                 "is_in_state": "None",
                 "is_simplified": true,
-                "osm_id": 2,
+                "osm_id": "SLO02",
                 "name_en": "Podravska",
                 "name": "Podravska"
             },
@@ -850,7 +850,7 @@
                 "is_in_country": "SLO00",
                 "is_in_state": "None",
                 "is_simplified": true,
-                "osm_id": 3,
+                "osm_id": "SLO03",
                 "name_en": "Koroška",
                 "name": "Koroška"
             }
@@ -1193,7 +1193,7 @@
                 "is_in_country": "SLO00",
                 "is_in_state": "None",
                 "is_simplified": true,
-                "osm_id": 4,
+                "osm_id": "SLO04",
                 "name_en": "Savinjska",
                 "name": "Savinjska"
             }
@@ -1348,7 +1348,7 @@
                 "is_in_country": "SLO00",
                 "is_in_state": "None",
                 "is_simplified": true,
-                "osm_id": 5,
+                "osm_id": "SLO05",
                 "name_en": "Zasavska",
                 "name": "Zasavska"
             }
@@ -1571,7 +1571,7 @@
                 "is_in_country": "SLO00",
                 "is_in_state": "None",
                 "is_simplified": true,
-                "osm_id": 6,
+                "osm_id": "SLO06",
                 "name_en": "Posavska",
                 "name": "Posavska"
             }
@@ -1938,7 +1938,7 @@
                 "is_in_country": "SLO00",
                 "is_in_state": "None",
                 "is_simplified": true,
-                "osm_id": 7,
+                "osm_id": "SLO07",
                 "name_en": "Jugovzhodna",
                 "name": "Jugovzhodna Slovenija"
             }
@@ -2301,7 +2301,7 @@
                 "is_in_country": "SLO00",
                 "is_in_state": "None",
                 "is_simplified": true,
-                "osm_id": 8,
+                "osm_id": "SLO08",
                 "name_en": "Osrednjeslovenska",
                 "name": "Osrednjeslovenska"
             },
@@ -2601,7 +2601,7 @@
                 "is_in_country": "SLO00",
                 "is_in_state": "None",
                 "is_simplified": true,
-                "osm_id": 9,
+                "osm_id": "SLO09",
                 "name_en": "Gorenjska",
                 "name": "Gorenjska"
             }
@@ -2812,7 +2812,7 @@
                 "is_in_country": "SLO00",
                 "is_in_state": "None",
                 "is_simplified": true,
-                "osm_id": 10,
+                "osm_id": "SLO10",
                 "name_en": "Primorsko-notranjska",
                 "name": "Primorsko-notranjska"
             }
@@ -3195,7 +3195,7 @@
                 "is_in_country": "SLO00",
                 "is_in_state": "None",
                 "is_simplified": true,
-                "osm_id": 11,
+                "osm_id": "SLO11",
                 "name_en": "Goriška",
                 "name": "Goriška"
             }
@@ -3462,7 +3462,7 @@
                 "is_in_country": "SLO00",
                 "is_in_state": "None",
                 "is_simplified": true,
-                "osm_id": 12,
+                "osm_id": "SLO12",
                 "name_en": "Obalno-kraška",
                 "name": "Obalno-kraška"
             }
