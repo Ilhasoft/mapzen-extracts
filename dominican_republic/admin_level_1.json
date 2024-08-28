@@ -642,8 +642,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Baoruco",
-                "name_en": "Baoruco",
+                "name": "Bahoruco",
+                "name_en": "Bahoruco",
                 "osm_id": "RD002",
                 "id": "002",
                 "is_in_country": "RD01",
@@ -840,8 +840,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Arahona",
-                "name_en": "Arahona",
+                "name": "Barahona",
+                "name_en": "Barahona",
                 "osm_id": "RD003",
                 "id": "003",
                 "is_in_country": "RD01",
